@@ -1,4 +1,4 @@
-# papa-bigua
+# titulo copado
 primer repo creado en github 
 
 ## descripcion 
