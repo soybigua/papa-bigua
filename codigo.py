@@ -1,4 +1,4 @@
-nombre = "bigua carranza"
+nombre = "Jorge Ernestito"
 apellido = "carranza"
 
 saludo = "hola "+ nombre + " " + apellido + " como estas?"
